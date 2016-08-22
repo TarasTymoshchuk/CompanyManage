@@ -19,3 +19,6 @@
   4. Run index.html
   
   I use cloud Mango DB. Resource https://mlab.com/
+  
+  Items of data base:
+  https://api.mongolab.com/api/1/databases/grbdb/collections/organizations?apiKey=umQLTHlfoM-UB68t6YdiiCzRDByzOUQg
